@@ -63,20 +63,17 @@ Tap on any marker to view details.
 Use the 📍 button to re-center the map to your current GPS location.
 
 🧭 Project Structure
-fotoyu-backend/
-├── server.js
-├── db/
-│   └── connect.js
-├── routes/
-│   └── locationRoutes.js
-├── controllers/
-│   └── locationController.js
-├── models/
-│   └── locationModel.js
-├── uploads/
-│   └── (uploaded images)
-└── data/
-    └── locations.json
+fotoyu-frontend/
+├── App.tsx
+├── components/
+│   ├── MapViewComponent.tsx
+│   ├── MarkerDetailModal.tsx
+│   └── AddLocationForm.tsx
+├── assets/
+│   ├── tree.png
+│   └── spot.png
+└── utils/
+    ├── api.ts
 
 
 🧪 Testing on Android Device
