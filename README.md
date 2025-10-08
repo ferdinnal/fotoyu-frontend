@@ -1,6 +1,6 @@
 # 🌍 Fotoyu Frontend (React Native + Expo)
 
-The **mobile client** for the Fotoyu project — an interactive map-based app that allows users to view, explore, and add Trees 🌳 or Spots 📍 around Semarang.
+The **mobile client** for the Fotoyu project — an interactive map-based app that allows users to view, explore, and add Trees 🌳 or Spots 📍 around.
 
 ---
 
